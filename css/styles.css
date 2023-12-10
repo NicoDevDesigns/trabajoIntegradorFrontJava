@@ -1,0 +1,40 @@
+body {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	background-color: #fafafa;
+}
+
+.navbar-nav .nav-link:hover {
+	color: #fff; 
+  }
+
+.navbar-gray {
+	background-color: #353a40;
+}
+.bg-carrusel {
+	background: rgba(0, 0, 0, 0.5);
+}
+.btn-enviar {
+	background-color: #96c93e !important;
+}
+
+.h-10 {
+	height: 40rem;
+}
+
+.margen-derecho {
+	margin-right: 10rem;
+}
+
+.titulo-form{
+	font-size: 0.8rem;
+}
+.conferencia{
+	height: 40rem;
+}
+
+.footer {
+	background: linear-gradient(to right, #1c3643, #1d5271);
+}
